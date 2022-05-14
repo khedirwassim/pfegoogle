@@ -1,0 +1,4 @@
+﻿L'opération de génération a démarré...
+1>------ Début de la génération : Projet : pfegoogle, Configuration : Debug Any CPU ------
+1>  pfegoogle -> C:\Users\Windows10\source\repos\pfegoogle\pfegoogle\bin\Debug\pfegoogle.exe
+========== Génération : 1 a réussi, 0 a échoué, 0 à jour, 0 a été ignoré ==========
